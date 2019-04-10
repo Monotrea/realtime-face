@@ -14,7 +14,7 @@ pip install dlib numpy opencv-python
 ```
 
 - 学習済みモデルをダウンロード  
-  http://dlib.net/files/ から shape_predictor_68_face_landmarks.dat.bz2 をダウンロードして、解答する。
+  http://dlib.net/files/ から shape_predictor_68_face_landmarks.dat.bz2 をダウンロードして、解凍する。
 
 - 動かしたい静止画を用意  
   動かしたい顔が写っているファイルを用意してください。
